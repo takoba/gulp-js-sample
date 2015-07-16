@@ -1,0 +1,19 @@
+{
+  "name": "gulp-js-sample",
+  "version": "0.0.0",
+  "description": "sample package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/takoba/gulp-js-sample.git"
+  },
+  "author": "takoba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/takoba/gulp-js-sample/issues"
+  },
+  "homepage": "https://github.com/takoba/gulp-js-sample#readme"
+}
