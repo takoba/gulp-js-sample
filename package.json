@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/takoba/gulp-js-sample/issues"
   },
-  "homepage": "https://github.com/takoba/gulp-js-sample#readme"
+  "homepage": "https://github.com/takoba/gulp-js-sample#readme",
+  "devDependencies": {
+    "gulp-load-plugins": "^0.10.0"
+  }
 }
